@@ -13,28 +13,33 @@
 ###
 
 
-### 💻 Language and tools:
+### 💻 Tech stack
 
 ###
 
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="52" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="52" width="52" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="52" width="52" alt="oracle logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="52" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="52" width="52" alt="wordpress logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="52" width="52" alt="trello logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="52" width="52" alt="jira logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="52" width="52" alt="windows8 logo"  />
-  <img src="https://cdn-icons-png.flaticon.com/512/2/2235.png" height="52" width="52" alt="macos logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="52" width="52" alt="java logo" title="Java"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="52" width="52" alt="spring logo"  title="Spring"  />
+  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="52" width="52" alt="junit5"  title="JUnit5"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="52" width="52" alt="oracle logo"  title="Oracle"  />
+  <img src="https://avatars.githubusercontent.com/u/1171922?v=4" height="52" width="52" alt="vaadin logo"  title="Vaadin"  />
+  <img src="https://www.svgrepo.com/show/373829/maven.svg" height="52" width="52" alt="mysql logo"  title="Maven"  />
+  <img src="https://www.eclipse.org/community/eclipse_newsletter/2015/may/images/gradlephant.png" height="52" width="52" alt="mysql logo"  title="Gradle"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="52" width="52" alt="mysql logo"  title="MySQL"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="52" width="52" alt="wordpress logo"  title="WordPress"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" width="52" alt="github logo"  title="GitHub"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" width="52" alt="git logo"  title="Git"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="52" width="52" alt="trello logo"  title="Trello"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="52" width="52" alt="jira logo"  title="Jira"  />
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="52" width="52" alt="postman logo"  title="Postman"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" height="52" width="52" alt="intellij logo"  title="IntelliJ IDEA"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="52" width="52" alt="windows logo"  title="Windows"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/2/2235.png" height="52" width="52" alt="macos logo"  title="MacOS"  />
 </div>
 
 ###
 
-### 🔥 GitHub Stats:
+### 🔥 GitHub Stats
 
 ###
 
