@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="52" width="52" alt="oracle logo"  title="Oracle"  />
   <img src="https://avatars.githubusercontent.com/u/1171922?v=4" height="52" width="52" alt="vaadin logo"  title="Vaadin"  />
   <img src="https://www.svgrepo.com/show/373829/maven.svg" height="52" width="52" alt="mysql logo"  title="Maven"  />
-  <img src="https://www.eclipse.org/community/eclipse_newsletter/2015/may/images/gradlephant.png" height="52" width="52" alt="mysql logo"  title="Gradle"  />
+  <img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" height="52" width="52" alt="mysql logo"  title="Gradle"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="52" width="52" alt="mysql logo"  title="MySQL"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="52" width="52" alt="wordpress logo"  title="WordPress"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" width="52" alt="github logo"  title="GitHub"  />
