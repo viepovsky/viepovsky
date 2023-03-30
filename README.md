@@ -1,5 +1,3 @@
-###
-
 <h1 align="center">Hi 👋, My name is Oskar</h1>
 
 ###
@@ -41,6 +39,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=viepovsky&theme=dracula&hide_border=true" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viepovsky&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=viepovsky&theme=dracula&hide_border=true" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viepovsky&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160" alt="languages graph"  />
 </div>
