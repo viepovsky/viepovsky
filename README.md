@@ -6,7 +6,7 @@
 
 ###
 
-🔭 I’m currently working on improving [**Car Service Garage**](https://github.com/viepovsky/Car-Service-Garage-Backend)<br>
+🔭 I'm currently starting to develop a new web application to showcase my skills<br>
 🌱 I’m currently learning **more and more about Java**<br>
 ⚽ Simply love sport
 
