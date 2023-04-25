@@ -26,6 +26,8 @@
   <img src="https://www.svgrepo.com/show/373829/maven.svg" height="52" width="52" alt="mysql logo"  title="Maven"  />
   <img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" height="52" width="52" alt="mysql logo"  title="Gradle"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="52" width="52" alt="mysql logo"  title="MySQL"  />
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" height="52" width="52" alt="mysql logo"  title="PostgreSQL"  />
+  <img src="https://flywaydb.org/wp-content/uploads/2020/12/cropped-favicon.png" height="52" width="52" alt="flyway logo"  title="Flyway"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="52" width="52" alt="wordpress logo"  title="WordPress"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" width="52" alt="github logo"  title="GitHub"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" width="52" alt="git logo"  title="Git"  />
@@ -45,5 +47,5 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=viepovsky&theme=dracula&hide_border=true" height="160" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viepovsky&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viepovsky&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160" alt="languages graph"  />
 </div>
