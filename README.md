@@ -21,13 +21,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="52" width="52" alt="java logo" title="Java"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="52" width="52" alt="spring logo"  title="Spring"  />
   <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="52" width="52" alt="junit5"  title="JUnit5"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="52" width="52" alt="oracle logo"  title="Oracle"  />
   <img src="https://avatars.githubusercontent.com/u/1171922?v=4" height="52" width="52" alt="vaadin logo"  title="Vaadin"  />
   <img src="https://www.svgrepo.com/show/373829/maven.svg" height="52" width="52" alt="mysql logo"  title="Maven"  />
   <img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" height="52" width="52" alt="mysql logo"  title="Gradle"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="52" width="52" alt="mysql logo"  title="MySQL"  />
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" height="52" width="52" alt="mysql logo"  title="PostgreSQL"  />
   <img src="https://flywaydb.org/wp-content/uploads/2020/12/cropped-favicon.png" height="52" width="52" alt="flyway logo"  title="Flyway"  />
+    <img src="https://img.icons8.com/color/512/java-web-token.png" height="52" width="52" alt="jwt logo"  title="JWT"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="52" width="52" alt="wordpress logo"  title="WordPress"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" width="52" alt="github logo"  title="GitHub"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" width="52" alt="git logo"  title="Git"  />
