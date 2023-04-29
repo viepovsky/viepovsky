@@ -6,7 +6,7 @@
 
 ###
 
-🔭 I'm currently working on application [**Medical Laboratory Service**](https://github.com/viepovsky/Medical-Laboratory-Service)<br>
+🔭 I'm currently working on creating library [**PESEL**](https://github.com/viepovsky/PESEL)<br>
 🌱 I’m currently learning **more and more about Java**<br>
 ⚽ Simply love sport
 
