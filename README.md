@@ -8,6 +8,7 @@
 
 🔭 I'm currently working on creating library [**PESEL**](https://github.com/viepovsky/PESEL)<br>
 🌱 I’m currently learning **more and more about Java**<br>
+📧 How to reach me o.rajzner@gmail.com<br>
 ⚽ Simply love sport
 
 ###
@@ -31,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="52" width="52" alt="wordpress logo"  title="WordPress"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" width="52" alt="github logo"  title="GitHub"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" width="52" alt="git logo"  title="Git"  />
+  <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" height="52" width="52" alt="github actions logo"  title="Github actions"  />
+  <img src="https://avatars.githubusercontent.com/u/8226205?s=280&v=4" height="52" width="52" alt="codecov logo"  title="Codecov"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="52" width="52" alt="trello logo"  title="Trello"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="52" width="52" alt="jira logo"  title="Jira"  />
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="52" width="52" alt="postman logo"  title="Postman"  />
