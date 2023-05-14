@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, My name is Oskar</h1>
+<h3 align="center">Junior Java Developer</h3>
 
 ###
 
@@ -6,7 +7,7 @@
 
 ###
 
-🔭 I'm currently working on creating library [**PESEL**](https://github.com/viepovsky/PESEL)<br>
+🔭 I'm currently working on creating application [**City Weather**](https://github.com/viepovsky/City-Weather-App)<br>
 🌱 I’m currently learning **more and more about Java**<br>
 📧 How to reach me o.rajzner@gmail.com<br>
 ⚽ Simply love sport
