@@ -29,7 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="52" width="52" alt="mysql logo"  title="MySQL"  />
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" height="52" width="52" alt="mysql logo"  title="PostgreSQL"  />
   <img src="https://flywaydb.org/wp-content/uploads/2020/12/cropped-favicon.png" height="52" width="52" alt="flyway logo"  title="Flyway"  />
-    <img src="https://img.icons8.com/color/512/java-web-token.png" height="52" width="52" alt="jwt logo"  title="JWT"  />
+  <img src="https://img.icons8.com/color/512/java-web-token.png" height="52" width="52" alt="jwt logo"  title="JWT"  />
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="52" width="52" alt="docker logo"  title="Docker"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="52" width="52" alt="wordpress logo"  title="WordPress"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" width="52" alt="github logo"  title="GitHub"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" width="52" alt="git logo"  title="Git"  />
