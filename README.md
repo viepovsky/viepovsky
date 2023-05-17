@@ -7,7 +7,7 @@
 
 ###
 
-🔭 I'm currently working on creating application [**City Weather**](https://github.com/viepovsky/City-Weather-App)<br>
+🔭 I'm currently working on creating application [**City Walk**](https://github.com/viepovsky/City-Weather-App)<br>
 🌱 I’m currently learning **more and more about Java**<br>
 📧 How to reach me o.rajzner@gmail.com<br>
 ⚽ Simply love sport
