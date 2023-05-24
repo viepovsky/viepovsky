@@ -10,7 +10,7 @@
 🔭 I'm currently working on creating application [**City Walk**](https://github.com/viepovsky/City-Weather-App)<br>
 🌱 I’m currently learning **more and more about Java**<br>
 📧 How to reach me o.rajzner@gmail.com<br>
-⚽ Simply love sport
+⚽ Simply love (e)sports
 
 ###
 
@@ -24,10 +24,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="52" width="52" alt="spring logo"  title="Spring"  />
   <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="52" width="52" alt="junit5"  title="JUnit5"  />
   <img src="https://avatars.githubusercontent.com/u/1171922?v=4" height="52" width="52" alt="vaadin logo"  title="Vaadin"  />
-  <img src="https://www.svgrepo.com/show/373829/maven.svg" height="52" width="52" alt="mysql logo"  title="Maven"  />
-  <img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" height="52" width="52" alt="mysql logo"  title="Gradle"  />
+  <img src="https://www.svgrepo.com/show/373829/maven.svg" height="52" width="52" alt="maven logo"  title="Maven"  />
+  <img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" height="52" width="52" alt="gradle logo"  title="Gradle"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="52" width="52" alt="mysql logo"  title="MySQL"  />
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" height="52" width="52" alt="mysql logo"  title="PostgreSQL"  />
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" height="52" width="52" alt="postgresql logo"  title="PostgreSQL"  />
+  <img src="https://static-00.iconduck.com/assets.00/mongodb-icon-512x512-mhzq0108.png" height="52" width="52" alt="mongodb logo"  title="MongoDB"  />
   <img src="https://flywaydb.org/wp-content/uploads/2020/12/cropped-favicon.png" height="52" width="52" alt="flyway logo"  title="Flyway"  />
   <img src="https://img.icons8.com/color/512/java-web-token.png" height="52" width="52" alt="jwt logo"  title="JWT"  />
   <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="52" width="52" alt="docker logo"  title="Docker"  />
@@ -35,6 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" width="52" alt="github logo"  title="GitHub"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" width="52" alt="git logo"  title="Git"  />
   <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" height="52" width="52" alt="github actions logo"  title="Github actions"  />
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130515.png" height="52" width="52" alt="jenkins logo"  title="Jenkins"  />
   <img src="https://avatars.githubusercontent.com/u/8226205?s=280&v=4" height="52" width="52" alt="codecov logo"  title="Codecov"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="52" width="52" alt="trello logo"  title="Trello"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="52" width="52" alt="jira logo"  title="Jira"  />
