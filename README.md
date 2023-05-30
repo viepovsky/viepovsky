@@ -7,7 +7,11 @@
 
 ###
 
-🔭 I'm currently working on creating application [**City Walk**](https://github.com/viepovsky/City-Weather-App)<br>
+🔭 I'm currently focused on improving my coding skills and searching for ideas for a new project<br>
+📣 Latest projects made: 
+[**City Walk**](https://github.com/viepovsky/City-Weather-App),
+[**Spring Boot MongoDb Docker Starter**](https://github.com/viepovsky/sample-starter-springboot-mongodb-api-docker-compose),
+[**Construction Tool App**](https://github.com/viepovsky/construction-tool-app)<br>
 🌱 I’m currently learning **more and more about Java**<br>
 📧 How to reach me o.rajzner@gmail.com<br>
 ⚽ Simply love (e)sports
