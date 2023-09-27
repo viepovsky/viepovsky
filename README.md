@@ -12,7 +12,7 @@
 [**City Walk**](https://github.com/viepovsky/City-Weather-App),
 [**Spring Boot MongoDb Docker Starter**](https://github.com/viepovsky/sample-starter-springboot-mongodb-api-docker-compose),
 [**Construction Tool App**](https://github.com/viepovsky/construction-tool-app)<br>
-🌱 I’m currently learning **more and more about Java**<br>
+🌱 I’m currently reading Algorithms Aditya Bhargava<br>
 📧 How to reach me o.rajzner@gmail.com<br>
 ⚽ Simply love (e)sports
 
