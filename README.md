@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, My name is Oskar</h1>
-<h3 align="center">Junior Java Developer</h3>
+<h2 align="left">Hi 👋, My name is Oskar</h1>
+<h4 align="left">Java Developer</h3>
 
 ###
 
-### 👩‍💻  About Me
+#### 👩‍💻  About Me
 
 ###
 
@@ -19,7 +19,7 @@
 ###
 
 
-### 💻 Tech stack
+#### 💻 Tech stack
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-### 🔥 GitHub Stats
+#### 🔥 GitHub Stats
 
 ###
 
