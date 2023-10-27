@@ -12,7 +12,7 @@
 [**City Walk**](https://github.com/viepovsky/City-Weather-App),
 [**Spring Boot MongoDb Docker Starter**](https://github.com/viepovsky/sample-starter-springboot-mongodb-api-docker-compose),
 [**Construction Tool App**](https://github.com/viepovsky/construction-tool-app)<br>
-🌱 I am currently studying computer science at the master's level.
+🌱 I am currently studying computer science at the master's level.<br>
 📧 How to reach me o.rajzner@gmail.com<br>
 ⚽ Simply love (e)sports
 
