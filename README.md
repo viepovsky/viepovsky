@@ -7,11 +7,9 @@
 
 ###
 
-🔭 I'm currently focused on improving my coding skills and searching for ideas for a new project<br>
+🔭 I'm currently diving into microservices learning by practice. Check out my repository: [**Microservices App**](https://github.com/viepovsky/microservices-app)<br>
 📣 Latest projects made: 
-[**City Walk**](https://github.com/viepovsky/City-Weather-App),
-[**Spring Boot MongoDb Docker Starter**](https://github.com/viepovsky/sample-starter-springboot-mongodb-api-docker-compose),
-[**Construction Tool App**](https://github.com/viepovsky/construction-tool-app)<br>
+[**AWS S3 Connection Example**](https://github.com/viepovsky/aws-s3-connection-example)<br>
 🌱 I am currently studying computer science at the master's level.<br>
 📧 How to reach me o.rajzner@gmail.com<br>
 ⚽ Simply love (e)sports
