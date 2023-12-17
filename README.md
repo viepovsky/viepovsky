@@ -35,7 +35,7 @@
   <img src="https://img.icons8.com/color/512/java-web-token.png" height="52" width="52" alt="jwt logo"  title="JWT"  />
   <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="52" width="52" alt="docker logo"  title="Docker"  />
   <img src="https://i0.wp.com/exporterhub.io/wp-content/uploads/2022/04/rabbitmq-logo.png" height="52" width="52" alt="rabbitmq logo"  title="RabbitMQ"  />
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_vertical_logo_icon_169585.png" height="52" width="52" alt="kafka logo"  title="Kafka"  />
+  <img src="https://icons-for-free.com/iconfiles/png/512/apache+kafka-1331550886393441357.png" height="52" width="52" alt="kafka logo"  title="Kafka"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="52" width="52" alt="wordpress logo"  title="WordPress"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" width="52" alt="github logo"  title="GitHub"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" width="52" alt="git logo"  title="Git"  />
