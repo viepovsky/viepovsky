@@ -7,10 +7,10 @@
 
 ###
 
-🔭 I'm currently diving into microservices learning by practice. Check out my repository: [**Microservices App**](https://github.com/viepovsky/microservices-app)<br>
+🔭 I'm diving into java microservices learning by practice. Starting to build new application, in meanwhile check out my previous made microservices app: [**Microservices App**](https://github.com/viepovsky/microservices-app)<br>
 📣 Latest projects made: 
-[**AWS S3 Connection Example**](https://github.com/viepovsky/aws-s3-connection-example)<br>
-🌱 I am currently studying computer science at the master's level.<br>
+[**PDF to JPG converter**](https://github.com/viepovsky/pdf-to-jpg-converter)<br>
+🌱 I am currently studying Computer Science at the Master's level.<br>
 📧 How to reach me o.rajzner@gmail.com<br>
 ⚽ Simply love (e)sports
 
