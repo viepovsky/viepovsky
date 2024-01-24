@@ -7,7 +7,7 @@
 
 ###
 
-🔭 I'm diving into java microservices learning by practice. Starting to build new application, in meanwhile check out my previous made microservices app: [**Microservices App**](https://github.com/viepovsky/microservices-app)<br>
+🔭 I'm diving into java microservices learning by practice. Right now developing new microservices application [**Online Store**](https://github.com/viepovsky/online-store), in meanwhile check out my previous made app: [**Microservices App**](https://github.com/viepovsky/microservices-app)<br>
 📣 Latest projects made: 
 [**PDF to JPG converter**](https://github.com/viepovsky/pdf-to-jpg-converter)<br>
 🌱 I am currently studying Computer Science at the Master's level.<br>
